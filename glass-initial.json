@@ -1,0 +1,192 @@
+{
+  "pages":[
+    {
+      "template":{
+        "id":"266bf6fc-a779-40b6-9a96-df5c33d8b11b",
+        "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/dc/e1/dce113d6919c400f93d1f86d155d729c-index.html?Signature=x%2BJkoUEUolaiecn4ozNfqfmb1A0%3D&Expires=1472155018&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+        "last_edit_by_email":"issac@servee.com",
+        "sha":"ebea4385439e6d4ed3fbb0bea3807ce4",
+        "admin_fields":{
+          "fields":{
+            "about_left":{
+              "type":"wysiwyg"
+            },
+            "title":{
+              "type":"text"
+            },
+            "subtitle":{
+              "type":"text"
+            },
+            "header_img":{
+              "type":"image"
+            },
+            "about_right":{
+              "type":"wysiwyg"
+            },
+            "menu_title":{
+              "type":"text"
+            }
+          },
+          "formsets":{
+            "portfolio":{
+              "order":[
+                "title",
+                "description",
+                "image"
+              ],
+              "fields":{
+                "image":{
+                  "type":"image"
+                },
+                "description":{
+                  "type":"wysiwyg",
+                  "noprint":"True"
+                },
+                "title":{
+                  "noprint":"True"
+                }
+              },
+              "options":{}
+            }
+          }
+        },
+        "last_edit_by":"1966d686-f98f-476e-981e-13824f884f85",
+        "path":"index.html"
+      },
+      "template_id":"266bf6fc-a779-40b6-9a96-df5c33d8b11b",
+      "children":[],
+      "last_edit_by_name":"Issac Kelly",
+      "last_published_by_email":"issac@servee.com",
+      "redirect":"",
+      "last_published_by":"1966d686-f98f-476e-981e-13824f884f85",
+      "parent":null,
+      "last_published":"2016-08-24T19:32:01.149514+00:00",
+      "content":{
+        "about_left":"<p>This is an example wysiwyg block! All you have to do to edit it is click on the box and start typing.&nbsp;</p>",
+        "title":"Glass",
+        "subtitle":"Feature Spotlight Site",
+        "header_img":{
+          "thumb":"/uploads/Screenshot 2016-07-24 16.19.22.png?width=100",
+          "filelink":"/uploads/Screenshot 2016-07-24 16.19.22.png",
+          "id":"8fdf68d1-06c7-4fa6-ba4f-28319334ad76",
+          "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/f0/cf/f0cf102df9c442b886d0160781e4f29f-Screenshot_2016-07-24_16.19.22.png?Signature=qFHJ5y1KpPi8MtPEKsSaYLZHp4s%3D&Expires=1470368868&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+          "filename":"Screenshot 2016-07-24 16.19.22.png",
+          "_type":"image",
+          "title":"Screenshot 2016-07-24 16.19.22.png",
+          "name":"Screenshot 2016-07-24 16.19.22.png",
+          "url":"/uploads/Screenshot 2016-07-24 16.19.22.png"
+        },
+        "about_right":"<p>You can add links, pictures, change headings and formatting.</p>",
+        "portfolio":[
+          {
+            "image":{
+              "thumb":"/uploads/P7130002.JPG?width=100",
+              "filelink":"/uploads/P7130002.JPG",
+              "id":"ccf4c733-26b0-4644-90bf-6437749326ad",
+              "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/d3/30/d3301af38ded466f82cb349a4f479ee8-P7130002.JPG?Signature=44KolUhZ%2BjFC8YW7QnBFCePr4gU%3D&Expires=1472070488&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+              "filename":"P7130002.JPG",
+              "_type":"image",
+              "title":"P7130002.JPG",
+              "name":"P7130002.JPG",
+              "url":"/uploads/P7130002.JPG"
+            },
+            "description":"<p>This was my first toolset for doing electronics. It served me quite well for my first several years as a hobbiest.&nbsp;</p>",
+            "title":"Toolset"
+          },
+          {
+            "image":{
+              "thumb":"/uploads/P7130037.JPG?width=100",
+              "filelink":"/uploads/P7130037.JPG",
+              "id":"ad2ebace-5350-4a02-abd6-d718a2c1d446",
+              "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/82/a0/82a06228829840e7a09249eb8b35a291-P7130037.JPG?Signature=rynoZe8R0V%2BbryNTk4E4FhRqnQU%3D&Expires=1472070550&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+              "filename":"P7130037.JPG",
+              "_type":"image",
+              "title":"P7130037.JPG",
+              "name":"P7130037.JPG",
+              "url":"/uploads/P7130037.JPG"
+            },
+            "description":"<p>This is a weather station I&nbsp;built for a gig. It detects temperature and barometric pressure.</p>",
+            "title":"Weather Station One"
+          },
+          {
+            "image":{
+              "thumb":"/uploads/P7130050.JPG?width=100",
+              "filelink":"/uploads/P7130050.JPG",
+              "id":"97b428fe-06e8-4534-a39e-1af59b11c925",
+              "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/af/9b/af9b5932a9ba425d94907299d6ac630f-P7130050.JPG?Signature=qCyu0m%2BrZU7wuVuTTQwNihe%2BP4s%3D&Expires=1472070579&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+              "filename":"P7130050.JPG",
+              "_type":"image",
+              "title":"P7130050.JPG",
+              "name":"P7130050.JPG",
+              "url":"/uploads/P7130050.JPG"
+            },
+            "description":"<p>This is a second photo of the weather station.</p>",
+            "title":"Another photo of the weather station"
+          },
+          {
+            "image":{
+              "thumb":"/uploads/P6170015.JPG?width=100",
+              "filelink":"/uploads/P6170015.JPG",
+              "id":"5fe065b9-5f82-4265-811b-7d5c1cd6113a",
+              "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/02/25/0225f95abec842088979271647be62d2-P6170015.JPG?Signature=L%2FULA03EapSYRGUtN0PsOgmVXXg%3D&Expires=1472070663&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+              "filename":"P6170015.JPG",
+              "_type":"image",
+              "title":"P6170015.JPG",
+              "name":"P6170015.JPG",
+              "url":"/uploads/P6170015.JPG"
+            },
+            "description":"<p>This is a bush near my apartment. It's good looking.</p>",
+            "title":"A bush outside my house"
+          },
+          {
+            "image":{
+              "thumb":"/uploads/P6250171.JPG?width=100",
+              "filelink":"/uploads/P6250171.JPG",
+              "id":"7f534e84-fcda-4279-b618-6d24f68d3708",
+              "full_url":"https://e91609feb09e4e34a43adc38f9ca7938.s3.amazonaws.com:443/8a66909d-d980-4624-aba4-a803194783aa/a3/c7/a3c7e7dd3cf248a98d5c6c31f57ef5d3-P6250171.JPG?Signature=Wmn%2F9yr2%2FkFhGz%2Fi6udn0kO2dlk%3D&Expires=1472070691&AWSAccessKeyId=AKIAIJSTJJOI6XE5ZQFA",
+              "filename":"P6250171.JPG",
+              "_type":"image",
+              "title":"P6250171.JPG",
+              "name":"P6250171.JPG",
+              "url":"/uploads/P6250171.JPG"
+            },
+            "description":"<p>This is a picture of me failing to steam some wood!</p>",
+            "title":"Steaming Some Wood"
+          }
+        ],
+        "menu_title":"Glass&nbsp;Feature Spotlight"
+      },
+      "last_edit_by":"1966d686-f98f-476e-981e-13824f884f85",
+      "last_published_by_name":"Issac Kelly",
+      "locked_to_groups":null,
+      "id":"c91bf65f-28d2-4e63-85e5-c4fedc8ab88f",
+      "lambda_func":{},
+      "path":"",
+      "draft_content":null,
+      "site_id":"8a66909d-d980-4624-aba4-a803194783aa",
+      "modified":"2016-08-24T19:32:39.949317+00:00",
+      "author":null,
+      "last_edit_by_email":"issac@servee.com",
+      "published":"2016-08-05T01:09:07.375502+00:00",
+      "created":"2016-08-05T01:09:07.375475+00:00",
+      "glass_meta":{
+        "input_order":[
+          "to",
+          "name",
+          "email",
+          "phone",
+          "message"
+        ]
+      },
+      "template_name":"index.html"
+    }
+  ],
+  "chunks":{
+    "location":{
+      "content":""
+    },
+    "footer_right":{
+      "content":""
+    }
+  }
+}
